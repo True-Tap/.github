@@ -1,4 +1,3 @@
-# .github
 # TrueTap
 
 <p align="center">
