@@ -2,17 +2,13 @@
 # TrueTap
 
 <p align="center">
-  <img src="Images/Tappy.png" alt="TrueTap Logo" width="120">
-</p>
-
-<p align="center">
   <strong>Payments. Reimagined.</strong><br>
   Making crypto payments as easy as sending a text.
 </p>
 
 <p align="center">
-  <a href="https://truetap.io">Website</a> •
-  <a href="pitch-deck.html">Pitch Deck</a> •
+  <a href="https://truetap.app">Website</a> •
+  <a href="https://truetap.app/pitch-deck.html">Pitch Deck</a> •
   <a href="https://solanamobile.com">Solana Mobile</a>
 </p>
 
