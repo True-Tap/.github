@@ -13,11 +13,11 @@
 
 ---
 
-## 🚀 What is TrueTap?
+## What is TrueTap?
 
 TrueTap is the premier Solana-native payment app, crafted exclusively for the Solana Seeker device. We're bringing Venmo-like simplicity to crypto payments with lightning-fast, near-zero-fee transactions that feel as smooth as silk.
 
-## ✨ Key Features
+## Key Features
 
 - **Tap to Pay** - Seamlessly send SOL and tokens with NFC tap technology
 - **Social Payments** - Add emoji notes, create group payments, and track splits with friends
@@ -26,11 +26,11 @@ TrueTap is the premier Solana-native payment app, crafted exclusively for the So
 - **Merchant Ready** - QR code payments, invoicing, and instant settlement for businesses
 - **DeFi Integration** - High-yield savings vaults and on-the-fly NFT trades
 
-## 🎯 Our Mission
+## Our Mission
 
 659 million crypto users are waiting for a mobile payment app that just works. Current wallets feel like engineering tools - we're changing that. TrueTap transforms your Seeker into a decentralized powerhouse for everyday payments, investments, and borderless commerce.
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 - **Platform**: Solana Mobile (Seeker)
 - **Blockchain**: Solana
@@ -38,7 +38,7 @@ TrueTap is the premier Solana-native payment app, crafted exclusively for the So
 - **Authentication**: Biometric (Face/Fingerprint)
 - **Languages**: TypeScript, Rust, React Native
 
-## 🌟 The Vision
+## The Vision
 
 ### Phase 1: The Venmo Phase
 Launch on Seeker. Make P2P payments magical. Build the habit of paying with crypto.
@@ -49,14 +49,14 @@ Add merchant tools, QR payments, mini-apps. Become the super-app for daily life.
 ### Phase 3: The Stripe Phase
 Power the entire ecosystem. Every Solana app uses TrueTap for payments.
 
-## 💼 Business Model
+## Business Model
 
 - **Transaction Fees**: 0.1-0.5% on larger transfers (free under $10)
 - **TrueTap Pro**: $4.99/mo for advanced features
 - **Merchant Services**: 2.5% for business accounts
 - **Developer Platform**: 20% revenue share on SDK payments
 
-## 🤝 For Developers
+## For Developers
 
 We're building the Stripe of Solana. Soon, you'll be able to accept payments in just 3 lines of code:
 
@@ -71,13 +71,13 @@ const payment = await TrueTap.pay({
 });
 ```
 
-## 📱 Get Started
+## Get Started
 
 TrueTap will be available exclusively on the Solana Seeker device at launch.
 
 [Pre-order Seeker](https://solanamobile.com) • [Join Waitlist (Soon)](https://truetap.app)
 
-## 🏆 Built for
+## Built for
 
 Solana Mobile Hackathon 2025
 
@@ -85,5 +85,5 @@ Solana Mobile Hackathon 2025
 
 <p align="center">
   <strong>Let's make crypto human.</strong><br>
-  Money moves like magic. ✨
+  Money moves like magic. 
 </p>
